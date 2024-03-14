@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/_shahid_abdul/Downloads/Programs/Incomplete%20Projects/Deep-Learning-Kidney-Classification/mlruns/0/863e020921794c3892e81464d59b7f23/artifacts
+end_time: 1710411311589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863e020921794c3892e81464d59b7f23
+run_name: whimsical-grouse-107
+run_uuid: 863e020921794c3892e81464d59b7f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710411307418
+status: 3
+tags: []
+user_id: _shahid_abdul

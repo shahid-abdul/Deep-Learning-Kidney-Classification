@@ -19,3 +19,10 @@
 export MLFLOW_TRACKING_URI = https://dagshub.com/shahid-abdul/Clasiffication-DeepLearning-Practice.mlflow \
 export MLFLOW_TRACKING_USERNAME = shahid-abdul \
 export MLFLOW_TRACKING_PASSWORD = 4976d418dad68a72609014529cbdb9c6712dc2e4 \
+
+
+## dvc commands
+
+1. dvc init
+2. dvc repro
+3. dvc dag
